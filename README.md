@@ -1,10 +1,14 @@
 
 # The Model-View-ViewModel (MVVM) in flutter pattern
 
+
+![Screenshot from 2023-02-11 19-42-00](https://user-images.githubusercontent.com/70679949/218263497-fa0bcb3f-543a-4f13-b6fe-1ab0c37609f4.png)
+
 Example of MVVM in flutter
 ## Documentation
 
 **The Model-View-ViewModel (MVVM) in flutter pattern:**
+![Screenshot from 2023-02-11 19-45-49](https://user-images.githubusercontent.com/70679949/218263507-991e8fb5-9673-4af1-89b3-bfcfe126770f.png)
 
 **Flutter MVVM (Model-View-ViewModel)** is an architectural pattern that is used to separate the user interface (View) from the business logic and data (Model) of an application, while also providing a clear separation of concerns. Here's how you can implement the MVVM pattern in Flutter:
 
